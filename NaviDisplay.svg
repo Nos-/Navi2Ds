@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="NaviDisplay.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.66"
+     inkscape:cx="346.02608"
+     inkscape:cy="714.73781"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="false"
+     inkscape:snap-global="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="710"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3021" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 666.75643,558.07647 -96.15063,-85.71429 1.29522,64.53082 c -114.34987,-7.37154 -168.09058,3.43966 -229.91252,99.10368 l 0.18126,-287.36737 60.79042,1.53626 -85.6817,-74.22518 -90.28756,70.97373 58.35118,0.13152 -0.60869,377.86282 49.91924,-0.95454 C 406.47284,599.28434 502.51639,574.63 580.39749,583.30055 l 4.04061,62.36693 z"
+       id="path2991"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccccc" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3003"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(0,-62.629458)"><flowRegion
+         id="flowRegion3005"><rect
+           id="rect3007"
+           width="525.2793"
+           height="84.852814"
+           x="181.82745"
+           y="280.60565" /></flowRegion><flowPara
+         id="flowPara3009">Highway of immaturity</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3011"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(-8.0812204,-42.426407)"><flowRegion
+         id="flowRegion3013"><rect
+           id="rect3015"
+           width="258.59903"
+           height="113.13708"
+           x="468.71078"
+           y="415.96606" /></flowRegion><flowPara
+         id="flowPara3017">Symposium</flowPara><flowPara
+         id="flowPara3019">Datenspuren</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3811"
+       style="font-size:36px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(150.28058,-669.07968)"><flowRegion
+         id="flowRegion3813"><rect
+           id="rect3815"
+           width="547.75519"
+           height="114.02916"
+           x="25.925926"
+           y="779.52271"
+           style="font-size:36px" /></flowRegion><flowPara
+         id="flowPara3817"
+         style="font-size:34px">Follow the road straight ahead</flowPara><flowPara
+         id="flowPara3821" /></flowRoot>    <path
+       style="fill:none;stroke:#000000;stroke-width:1.02347612px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 175.82544,183.40647 c 548.40525,1.21109 548.40525,1.21109 548.40525,1.21109"
+       id="path3819"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
